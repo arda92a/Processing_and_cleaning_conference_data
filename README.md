@@ -1,1 +1,4 @@
-1. Information about the organization
+# Information about the organization
+ISUF’s aim is the international and interdisciplinary sharing of ideas, methods and findings concerned with urban form. The International Seminar on Urban Form is the academic organization serving researchers and practitioners worldwide. The ISUF annual conference takes place over four to five days in mid-summer to early fall. Cities and universities all over the world have sponsored the conference, which attracts 200 to 400 scholars and practitioners. In addition to paper presentation and keynote speakers, guests enjoy tours and a banquet designed to honor the place.
+# Project Objective
+The aim of our project is to examine this dataset created by people who attended this conference, to make analyses on it and to clean the dataset. The cleaning step is the most important part of the project. Because in order to prevent inconsistency in the visualizations we will make, we need to clean our data well and make it ready for visualization.
